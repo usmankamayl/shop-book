@@ -1,0 +1,28 @@
+stdClass Object
+(
+    [update_id] => 80533241
+    [message] => stdClass Object
+        (
+            [message_id] => 24
+            [from] => stdClass Object
+                (
+                    [id] => 654038901
+                    [is_bot] => 
+                    [first_name] => Усман
+                    [username] => usman_kamayl
+                    [language_code] => en
+                )
+
+            [chat] => stdClass Object
+                (
+                    [id] => 654038901
+                    [first_name] => Усман
+                    [username] => usman_kamayl
+                    [type] => private
+                )
+
+            [date] => 1707986789
+            [text] => привет
+        )
+
+)
